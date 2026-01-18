@@ -1,1 +1,1 @@
-Learning C/C++ using Linux
+Learning C Linux with Alazar
