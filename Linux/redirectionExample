@@ -1,0 +1,6 @@
+total 24
+-rwxr-xr-x. 1 semere semere 14240 Jan 13 17:38 a.out
+-rw-r--r--. 1 semere semere     0 Jan 13 17:55 redirectionExample
+-rwxrwxrwx. 1 semere semere    48 Jan 13 17:20 showName
+-rw-r--r--. 1 semere semere     0 Jan 13 17:44 SpecialCharacters
+-rwxrwxrwx. 1 semere semere   470 Jan 13 17:41 syscmd.c

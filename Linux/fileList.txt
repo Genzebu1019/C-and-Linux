@@ -1,0 +1,12 @@
+total 52
+-rwxr-xr-x. 1 semere semere 14240 Jan 13 17:38 a.out
+-rw-r--r--. 1 semere semere     0 Jan 17 18:06 fileList.txt
+-rw-r--r--. 1 semere semere    40 Jan 17 17:22 names.txt
+-rwxrwxrwx. 1 semere semere    34 Jan 17 18:03 Parsefile.sh
+-rw-r--r--. 1 semere semere   305 Jan 13 17:55 redirectionExample
+-rw-r--r--. 1 semere semere   249 Jan 17 18:05 showName
+-rw-r--r--. 1 semere semere    27 Jan 13 17:59 sortedFile.txt
+-rw-r--r--. 1 semere semere    40 Jan 17 17:23 sortedNames.txt
+-rw-r--r--. 1 semere semere    27 Jan 13 17:58 sort.txt
+-rwxrwxrwx. 1 semere semere   264 Jan 17 18:06 SpecialCharacters.sh
+-rwxrwxrwx. 1 semere semere   470 Jan 13 17:41 syscmd.c
